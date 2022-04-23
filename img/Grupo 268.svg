@@ -1,0 +1,130 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="597" height="161" viewBox="0 0 597 161">
+            <defs>
+              <clipPath id="clip-path">
+                <path id="Caminho_125" data-name="Caminho 125" d="M0,0H597V-161H0Z" fill="none"/>
+              </clipPath>
+              <clipPath id="clip-path-2">
+                <path id="Caminho_128" data-name="Caminho 128" d="M118.5-90A27.5,27.5,0,0,0,146-117.5,27.5,27.5,0,0,0,118.5-145,27.5,27.5,0,0,0,91-117.5,27.5,27.5,0,0,0,118.5-90Z" fill="none" clip-rule="evenodd"/>
+              </clipPath>
+              <clipPath id="clip-path-4">
+                <path id="Caminho_131" data-name="Caminho 131" d="M118.5-95A22.5,22.5,0,0,0,141-117.5,22.5,22.5,0,0,0,118.5-140,22.5,22.5,0,0,0,96-117.5,22.5,22.5,0,0,0,118.5-95Z" fill="none" clip-rule="evenodd"/>
+              </clipPath>
+              <clipPath id="clip-path-7">
+                <path id="Caminho_135" data-name="Caminho 135" d="M125.071-125.257a.5.5,0,0,1,.686-.172.5.5,0,0,1,.172.686l-9,15-.017.026c-.008.012-.018.024-.028.036l-.029.032.029-.032a.5.5,0,0,1-.069.069l-.018.014a.512.512,0,0,1-.054.035l-.026.013a.478.478,0,0,1-.05.021l-.04.012-.045.01-.023,0a.518.518,0,0,1-.06,0h-.034l-.054-.007a.506.506,0,0,1-.069-.018l-.01,0a.507.507,0,0,1-.089-.042l.039.021-.034-.018-.032-.02-.036-.028-6-5a.5.5,0,0,1-.064-.7.5.5,0,0,1,.7-.064l5.551,4.625Z" fill="none"/>
+              </clipPath>
+              <clipPath id="clip-path-9">
+                <path id="Caminho_138" data-name="Caminho 138" d="M298.5-90A27.5,27.5,0,0,0,326-117.5,27.5,27.5,0,0,0,298.5-145,27.5,27.5,0,0,0,271-117.5,27.5,27.5,0,0,0,298.5-90Z" fill="none" clip-rule="evenodd"/>
+              </clipPath>
+              <clipPath id="clip-path-11">
+                <path id="Caminho_141" data-name="Caminho 141" d="M298.5-95A22.5,22.5,0,0,0,321-117.5,22.5,22.5,0,0,0,298.5-140,22.5,22.5,0,0,0,276-117.5,22.5,22.5,0,0,0,298.5-95Z" fill="none" clip-rule="evenodd"/>
+              </clipPath>
+              <clipPath id="clip-path-14">
+                <path id="Caminho_145" data-name="Caminho 145" d="M305.071-125.257a.5.5,0,0,1,.686-.172.5.5,0,0,1,.172.686l-9,15-.017.026c-.008.012-.018.024-.028.036l-.029.032.029-.032a.5.5,0,0,1-.069.069l-.018.014a.514.514,0,0,1-.054.035l-.026.013a.474.474,0,0,1-.05.021l-.04.012-.045.01-.023,0a.518.518,0,0,1-.06,0h-.034l-.054-.007a.505.505,0,0,1-.069-.018l-.01,0a.506.506,0,0,1-.089-.042l.039.021-.034-.018-.032-.02-.036-.028-6-5a.5.5,0,0,1-.064-.7.5.5,0,0,1,.7-.064l5.551,4.625Z" fill="none"/>
+              </clipPath>
+              <clipPath id="clip-path-16">
+                <path id="Caminho_148" data-name="Caminho 148" d="M478.5-90A27.5,27.5,0,0,0,506-117.5,27.5,27.5,0,0,0,478.5-145,27.5,27.5,0,0,0,451-117.5,27.5,27.5,0,0,0,478.5-90Z" fill="none" clip-rule="evenodd"/>
+              </clipPath>
+              <clipPath id="clip-path-18">
+                <path id="Caminho_151" data-name="Caminho 151" d="M478.5-95A22.5,22.5,0,0,0,501-117.5,22.5,22.5,0,0,0,478.5-140,22.5,22.5,0,0,0,456-117.5,22.5,22.5,0,0,0,478.5-95Z" fill="none" clip-rule="evenodd"/>
+              </clipPath>
+              <clipPath id="clip-path-21">
+                <path id="Caminho_155" data-name="Caminho 155" d="M485.071-125.257a.5.5,0,0,1,.686-.172.5.5,0,0,1,.172.686l-9,15-.017.026c-.008.012-.018.024-.028.036l-.029.032.029-.032a.5.5,0,0,1-.069.069l-.018.014a.514.514,0,0,1-.054.035l-.026.013a.474.474,0,0,1-.05.021l-.04.012-.045.01-.023,0a.518.518,0,0,1-.06,0h-.034l-.054-.007a.505.505,0,0,1-.069-.018l-.01,0a.506.506,0,0,1-.089-.042l.039.021-.034-.018-.032-.02-.036-.028-6-5a.5.5,0,0,1-.064-.7.5.5,0,0,1,.7-.064l5.551,4.625Z" fill="none"/>
+              </clipPath>
+            </defs>
+            <g id="Grupo_268" data-name="Grupo 268" transform="translate(0 161)">
+              <g id="Grupo_237" data-name="Grupo 237" clip-path="url(#clip-path)">
+                <path id="Caminho_124" data-name="Caminho 124" d="M0-161H597V0H0Z" fill="#f3f3f3" fill-rule="evenodd"/>
+              </g>
+              <g id="Grupo_239" data-name="Grupo 239" clip-path="url(#clip-path-2)">
+                <g id="Grupo_238" data-name="Grupo 238" clip-path="url(#clip-path)">
+                  <path id="Caminho_126" data-name="Caminho 126" d="M90-146h57v57H90Z" fill="#fff"/>
+                </g>
+              </g>
+              <g id="Grupo_241" data-name="Grupo 241" clip-path="url(#clip-path-4)">
+                <g id="Grupo_240" data-name="Grupo 240" clip-path="url(#clip-path)">
+                  <path id="Caminho_129" data-name="Caminho 129" d="M95-141h47v47H95Z" fill="#008100"/>
+                </g>
+              </g>
+              <g id="Grupo_244" data-name="Grupo 244" clip-path="url(#clip-path)">
+                <g id="Grupo_242" data-name="Grupo 242" transform="translate(68 -84)">
+                  <g id="Grupo">
+                    <text id="Te" transform="translate(2.812 18)" fill="#00095a" font-size="16" font-family="Ford Antenna" letter-spacing="-0.054em"><tspan x="5" y="0">Technician</tspan></text>
+                    <text id="_" data-name=" " transform="translate(98.188 18)" fill="#00095a" font-size="16" font-family="Ford Antenna" letter-spacing="-0.054em"><tspan x="0" y="0"> </tspan></text>
+                  </g>
+                </g>
+                <g id="Grupo_243" data-name="Grupo 243" transform="translate(68 -84)">
+                  <g id="Grupo-2" data-name="Grupo">
+                    <text id="on_the_w" data-name="on the w" transform="translate(2.252 42)" fill="#00095a" font-size="16" font-family="Ford Antenna" letter-spacing="0.063em"><tspan x="0" y="0">on the way</tspan></text>
+                  </g>
+                </g>
+              </g>
+              <g id="Grupo_246" data-name="Grupo 246" clip-path="url(#clip-path-7)">
+                <g id="Grupo_245" data-name="Grupo 245" clip-path="url(#clip-path)">
+                  <path id="Caminho_133" data-name="Caminho 133" d="M108.939-126.571h18.132V-108.5H108.939Z" fill="#fff"/>
+                </g>
+              </g>
+              <g id="Grupo_248" data-name="Grupo 248" clip-path="url(#clip-path-9)">
+                <g id="Grupo_247" data-name="Grupo 247" clip-path="url(#clip-path)">
+                  <path id="Caminho_136" data-name="Caminho 136" d="M270-146h57v57H270Z" fill="#fff"/>
+                </g>
+              </g>
+              <g id="Grupo_250" data-name="Grupo 250" clip-path="url(#clip-path-11)">
+                <g id="Grupo_249" data-name="Grupo 249" clip-path="url(#clip-path)">
+                  <path id="Caminho_139" data-name="Caminho 139" d="M275-141h47v47H275Z" fill="#008100"/>
+                </g>
+              </g>
+              <g id="Grupo_253" data-name="Grupo 253" clip-path="url(#clip-path)">
+                <g id="Grupo_251" data-name="Grupo 251" transform="translate(248 -84)">
+                  <g id="Grupo-3" data-name="Grupo">
+                    <text id="Te-2" data-name="Te" transform="translate(2.812 18)" fill="#00095a" font-size="16" font-family="Ford Antenna" letter-spacing="-0.054em"><tspan x="10" y="0">Technician</tspan></text>
+                  </g>
+                </g>
+                <g id="Grupo_252" data-name="Grupo 252" transform="translate(248 -84)">
+                  <g id="Grupo-4" data-name="Grupo">
+                    <text id="Arriv" transform="translate(18.776 42)" fill="#00095a" font-size="16" font-family="Ford Antenna" letter-spacing="0.063em"><tspan x="0" y="0">Arrived</tspan></text>
+                  </g>
+                </g>
+              </g>
+              <g id="Grupo_255" data-name="Grupo 255" clip-path="url(#clip-path-14)">
+                <g id="Grupo_254" data-name="Grupo 254" clip-path="url(#clip-path)">
+                  <path id="Caminho_143" data-name="Caminho 143" d="M288.939-126.571h18.132V-108.5H288.939Z" fill="#fff"/>
+                </g>
+              </g>
+              <g id="Grupo_257" data-name="Grupo 257" clip-path="url(#clip-path-16)">
+                <g id="Grupo_256" data-name="Grupo 256" clip-path="url(#clip-path)">
+                  <path id="Caminho_146" data-name="Caminho 146" d="M450-146h57v57H450Z" fill="#fff"/>
+                </g>
+              </g>
+              <g id="Grupo_259" data-name="Grupo 259" clip-path="url(#clip-path-18)">
+                <g id="Grupo_258" data-name="Grupo 258" clip-path="url(#clip-path)">
+                  <path id="Caminho_149" data-name="Caminho 149" d="M455-141h47v47H455Z" fill="#008100"/>
+                </g>
+              </g>
+              <g id="Grupo_262" data-name="Grupo 262" clip-path="url(#clip-path)">
+                <g id="Grupo_260" data-name="Grupo 260" transform="translate(429.5 -84)">
+                  <g id="Grupo-5" data-name="Grupo">
+                    <text id="Se" transform="translate(16.444 18)" fill="#00095a" font-size="16" font-family="Ford Antenna" letter-spacing="0.048em"><tspan x="0" y="0">Service</tspan></text>
+                  </g>
+                </g>
+                <g id="Grupo_261" data-name="Grupo 261" transform="translate(429.5 -84)">
+                  <g id="Grupo-6" data-name="Grupo">
+                    <text id="Co" transform="translate(0.3 42)" fill="#00095a" font-size="16" font-family="Ford Antenna" letter-spacing="0.043em"><tspan x="5" y="0">Completed</tspan></text>
+                  </g>
+                </g>
+              </g>
+              <g id="Grupo_264" data-name="Grupo 264" clip-path="url(#clip-path-21)">
+                <g id="Grupo_263" data-name="Grupo 263" clip-path="url(#clip-path)">
+                  <path id="Caminho_153" data-name="Caminho 153" d="M468.939-126.571h18.132V-108.5H468.939Z" fill="#fff"/>
+                </g>
+              </g>
+              <g id="Grupo_267" data-name="Grupo 267" clip-path="url(#clip-path)">
+                <g id="Grupo_265" data-name="Grupo 265" transform="translate(147 -118)">
+                  <path id="Caminho_156" data-name="Caminho 156" d="M0,.5H120" fill="none" stroke="#00095a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                </g>
+                <g id="Grupo_266" data-name="Grupo 266" transform="translate(327 -118)">
+                  <path id="Caminho_157" data-name="Caminho 157" d="M0,.5H120" fill="none" stroke="#00095a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+                </g>
+              </g>
+            </g>
+          </svg>
